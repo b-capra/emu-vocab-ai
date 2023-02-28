@@ -1,4 +1,11 @@
+@font-face {
+  font-family: 'Nunito';
+  src: url(src/assets/Nunito-VariableFont_wght.ttf)
+}
+
 :root {
+  background-color: hsl(45, 29%, 97%);
+  font-family: 'Nunito';
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
